@@ -226,3 +226,10 @@ body {
 .login-register p a:hover {
     text-decoration: underline;
 }
+
+@media (max-height: 460px){
+    .wrapprer {
+        width: 390px;
+        height: 410px;
+    }
+}
